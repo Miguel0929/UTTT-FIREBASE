@@ -1,0 +1,7 @@
+{
+  "name": "AppUTTT",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
